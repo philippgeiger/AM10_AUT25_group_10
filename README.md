@@ -20,7 +20,8 @@ The main points of this dataset we have chosen to analyse are the teams, their f
 
 We created four key questions to answer with our visualisations of this dataset:
 
-1. Tactical convergence: are the top five leagues becoming homogenised, or do unique tactical cultures (like Italy's 3-5-2) persist?
-2. Effectiveness: which starting formations offer the best balance between attack (goals scored) and defence (goals conceded)?
-3. Contagion: can we measure synchronised tactical trends across leagues over time?
-4. Venue bias: do team formations change significantly for Home versus Away matches?
+1. Which formations perform best?
+2. Is there an evolution in favoured formations?
+3. Do budgets change tactical choices?
+4. Does cross-league contagion exist?
+5. Do team formations change depending on where they play?
