@@ -25,3 +25,9 @@ We created four key questions to answer with our visualisations of this dataset:
 3. Do budgets change tactical choices?
 4. Does cross-league contagion exist?
 5. Do team formations change depending on where they play?
+
+### The project files
+
+To see the Jupyter and R files used to generate the visualisations in the project, please see the `code` directory of this repo.
+
+To see the exported HTML versions of the above files, please see the `exports` directory of this repo.
