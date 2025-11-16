@@ -31,3 +31,5 @@ We created four key questions to answer with our visualisations of this dataset:
 To see the Jupyter and R files used to generate the visualisations in the project, please see the `code` directory of this repo.
 
 To see the exported HTML versions of the above files, please see the `exports` directory of this repo.
+
+If you intend to run this code locally, please use the provided UV files to manage this project's dependencies, since there are some minor changes compared to the base AM10 UV files.
