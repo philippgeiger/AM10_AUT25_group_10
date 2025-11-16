@@ -10,10 +10,17 @@ The dataset we have chosen to analyse comes from https://www.kaggle.com/datasets
 
 ### Preparing the dataset
 
-This dataset comes in the form of several tables in the form of CSV files. First, we cleaned the data by removing unusable data (e.g., blank rows) and making sure each table has a unique private key. Next, we created a .db file from these tables to bring the data into one source, allowing us to formally define the connections of the tables and write SQL queries for our analyses. 
+This dataset comes in the form of several tables in the form of CSV files. First, we cleaned the data by removing unusable data (e.g., blank rows) and making sure each table has a unique private key. Next, we created a .db file from these tables to bring the data into one source, allowing us to formally define the connections of the tables and write SQL queries for our analyses. Below is an image of the schema. Please note that not all tables were used for this analyis. 
 
-
+ ![Database Schema](/database_schema.png)
 
 ### The project
 
 The main points of this dataset we have chosen to analyse are the teams, their formations, the development of their formations over time, the venues of their matches, and the results of their games. 
+
+We created four key questions to answer with our visualisations of this dataset:
+
+1. Tactical convergence: are the top five leagues becoming homogenised, or do unique tactical cultures (like Italy's 3-5-2) persist?
+2. Effectiveness: which starting formations offer the best balance between attack (goals scored) and defence (goals conceded)?
+3. Contagion: can we measure synchronised tactical trends across leagues over time?
+4. Venue bias: do team formations change significantly for Home versus Away matches?
